@@ -8,16 +8,6 @@ Chatbot on telegram to detect if news is FAKE
 or REAL
 
 
-#### Top Real news ####
-<img src="https://github.com/mahithabsl/Fake_News_Detector/blob/master/images/bot1.PNG" width="75%" height="650">
-
-#### Top Fake news ####
-<img src="https://github.com/mahithabsl/Fake_News_Detector/blob/master/images/bot2.PNG" width="75%" height="650">
-
-#### News predictior ####
-<img src="https://github.com/mahithabsl/Fake_News_Detector/blob/master/images/bot3.PNG" width="75%" height="650">
-
-
 ## TechStack ##
 
 * Machine Learning Model
